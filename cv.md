@@ -25,3 +25,18 @@ function multiply(a, b){
   return a*b;
 }
 ```
+
+## Experience
+##### **fuse8** - *QA Engineer*
+2020 - current time
+Software testing of developing products. UI and Backend testing, API testing, and load testing. Creating test plans, test cases, and bug reports. Team lead support.
+##### **AnimaRender** - *Technical support*
+2018 - 2020
+Online technical support services for render farm users. Software installation & configuration, testing developed applications and company web site.
+## Education
+2017 - 2019
+**Magister degree** - South Ural State University (National Research University), Chelyabinsk
+2012 - 2017
+**Bachelor degree** - South Ural State University (National Research University), Chelyabinsk
+## Foreign languages
+**English** - B2
