@@ -13,3 +13,15 @@ I am a qualified QA Engineer in *fuse8* company with two years of experience in 
 - Postman, JMeter, Swagger, BrowserStack
 - HTML, CSS, JavaScript *(TS little bit)*
 - Atlassian Jira, DevTools, Git, SQL, Fork
+
+## Code
+My previous code examples could be found in my repos list:
+- [Weather App](https://github.com/HeyHey204/weather-app)
+- [ToDo List](https://github.com/HeyHey204/yet-another-todo)
+
+#### Code example:
+```
+function multiply(a, b){
+  return a*b;
+}
+```
