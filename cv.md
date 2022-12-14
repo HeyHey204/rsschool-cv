@@ -2,8 +2,11 @@
 ![Hi!](https://img.hhcdn.ru/photo/523347376.png?t=1671111614&h=s3mzfNmJ3CMkOt4h065Hww)
 ## Contacts
 **TG:** [@heyhey204](https://t.me/HeyHey204)
+
 **Discord:** [@heyhey204](https://discord.com/users/508403827586629643/)
+
 **E-mail:** [alexger204@gmail.com](mailto:alexger204@gmail.com)
+
 
 ## Profile
 I am a qualified QA Engineer in *fuse8* company with two years of experience in software testing. I am attentive and responsible for the result. Ready for team and independent work. I strive to professional development, learning new things like technologies, tools or way to interacting with software. Team player with an eye for detail. I study and practice web development in my free time.
@@ -39,9 +42,11 @@ Software testing of developing products. UI and Backend testing, API testing, an
 Online technical support services for render farm users. Software installation & configuration, testing developed applications and company web site.
 
 ## Education
-**Magister degree** - South Ural State University (National Research University), Chelyabinsk, 2017 - 2019
+#### **Magister degree** - South Ural State University (National Research University), Chelyabinsk, 2017 - 2019
+School of Electronic Engineering and Computer Science, 09.04.01 Computer Science and Computer Engineering (Computer Engineering, Complexes, Systems and Networks)
 
-**Bachelor degree** - South Ural State University (National Research University), Chelyabinsk, 2012 - 2017
+#### **Bachelor degree** - South Ural State University (National Research University), Chelyabinsk, 2012 - 2017
+School of Electronic Engineering and Computer Science, 09.03.01 Computer Science and Computer Engineering (Computer Engineering, Complexes, Systems and Networks)
 
 ## Foreign languages
 **English** - B2
