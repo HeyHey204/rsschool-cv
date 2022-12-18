@@ -1,4 +1,150 @@
-h1{
-	font-size: 24px;
-	font-style: italic;
+*{
+	margin: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Signika Negative', sans-serif;
+	background: rgb(250, 247, 242);
+}
+
+.nav-list{
+	display: flex;
+	flex-wrap: wrap;
+	font-weight: 600;
+	padding: 0;	
+	background: #b4b8e9;
+}
+
+.nav-item{
+	display: flex;
+	cursor: pointer;
+}
+
+.nav-item .nav-link{
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+	color: #eee;
+}
+
+.nav-item:hover{
+	background: #848acc;
+	transition: all 0.2s ease-in-out;
+}
+
+.wrapper{
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 0 30px;
+}
+
+.cv-section{
+	margin-bottom: 40px;
+}
+
+.cv-section:first-child{
+	margin-top: 40px;
+}
+
+.main-info{
+	display: flex;
+	justify-content: space-between;
+}
+
+.main-info h1{
+	align-self: center;
+	font-size: 3rem;
+}
+
+.main-info img{
+	border: 3px solid rgb(161, 161, 161);
+	border-radius: 10%;
+	overflow: hidden;
+}
+
+.name-info{
+	align-self: center;
+}
+
+.section-title{
+	margin-bottom: 10px;
+	color: #30366d;
+}
+
+.section-list{
+	padding-left: 30px;
+}
+
+.section-list-item{
+	padding-bottom: 5px;
+}
+
+.section-list-item b{
+	color:#30366d;
+}
+
+.section-list-item:last-child {
+	padding-bottom: 0;
+}
+
+.content-link{
+	text-decoration: none;
+	color: #848acc;
+}
+
+.content-link:hover {
+	text-decoration: underline;
+	color: #30366d;
+	transition: all 0.2s ease-in-out;
+}
+
+.content-link:visited {
+	text-decoration: underline;
+	color: #313455;
+	transition: all 0.2s ease-in-out;
+}
+
+.content-text{
+	margin: 10px 0 10px;
+}
+
+.code-copy{
+	display: inline-block;
+	background-color:#848acc35;
+	padding: 10px;
+	align-self:center;
+	margin-left: 30px;
+	border-radius: 10px;
+	border: 3px solid #31345535;
+}
+
+.code-copy code{
+	display: flex;
+	align-self: center;
+}
+
+.section-subtitle{
+	color: #30366dd0;
+}
+
+.section-label{
+	display:inline-block;
+	background-color: #9198e5;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 0 5px;
+	margin-top: 5px;
+}
+
+.cv-footer{
+ 	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px;
+	font-weight: bold;
+	background:#9198e5;
 }
