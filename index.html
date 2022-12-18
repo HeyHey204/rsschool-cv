@@ -6,11 +6,155 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;600;700&display=swap" rel="stylesheet">
+	<link rel="icon" href="assets/ico/favicon.ico">
 	<title>CV</title>
 </head>
 
 <body>
-	<h1>To be added...</h1>
+	<header>
+		<nav class="nav">
+			<ul class="nav-list">
+				<li class="nav-item">
+					<a class="nav-link" href="#contacts">Contacts</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#profile">Profile</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#skills">Skills</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#code">Code</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#experience">Experience</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#education">Education</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#english">English</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<main class="main-container">
+		<div class="wrapper">
+			<section class="main-info cv-section">
+				<div class="name-info">
+					<h1>Alexey Gerasimov</h1>
+					<span>Junior Web Developer</span>
+				</div>
+				<img src="./assets/img/avatar.png" alt="Alexey Gerasimov" width="200">
+			</section>
+			<section class="cv-section" id="contacts">
+				<h2 class="section-title">Contacts</h2>
+				<ul class="section-list">
+					<li class="section-list-item">
+						<b>TG:</b> <a class="content-link" href="https://t.me/HeyHey204">@heyhey204</a>
+					</li>
+					<li class="section-list-item">
+						<b>Discord:</b> <a class="content-link" href="https://discord.com/users/508403827586629643/">@heyhey204</a>
+					</li>
+					<li class="section-list-item">
+						<b>E-mail:</b> <a class="content-link" href="mailto:alexger204@gmail.com">alexger204@gmail.com</a>
+					</li>
+				</ul>
+			</section>
+			<section class="cv-section" id="profile">
+				<h2 class="section-title">Profile</h2>
+				<p class="content-text">I am a qualified QA Engineer in fuse8 company with two years of experience in software
+					testing. I am
+					attentive
+					and
+					responsible for the result. Ready for team and independent work. I strive to professional development,
+					learning
+					new
+					things like technologies, tools or way to interacting with software. Team player with an eye for detail. I
+					study
+					and
+					practice web development in my free time.</p>
+			</section>
+			<section class="cv-section" id="skills">
+				<h2 class="section-title">Skills</h2>
+				<ul class="section-list">
+					<li class="section-list-item">UI & Backend Testing, Load testing, writing test artifacts</li>
+					<li class="section-list-item">Postman, JMeter, Swagger, BrowserStack</li>
+					<li class="section-list-item">HTML, CSS, JavaScript (TS little bit)</li>
+					<li class="section-list-item">Atlassian Jira, DevTools, Git, SQL, Fork</li>
+				</ul>
+			</section>
+			<section class="cv-section" id="code">
+				<h2 class="section-title">Code</h2>
+				<p class="content-text">My previous code examples could be found in my repos list:</p>
+				<ul class="section-list">
+					<li class="section-list-item"><a class="content-link" href="https://github.com/HeyHey204/weather-app">Weather
+							App</a></li>
+					<li class="section-list-item"><a class="content-link"
+							href="https://github.com/HeyHey204/yet-another-todo">ToDo List</a></li>
+				</ul>
+				<p class="content-text">Code example:</p>
+				<pre class="code-copy">
+					<code>
+function multiply(a, b){
+	return a*b;
+}
+</code>
+					</pre>
+			</section>
+			<section class="cv-section" id="experience">
+				<h2 class="section-title">Experience</h2>
+				<h3 class="section-subtitle">fuse8 - QA Engineer</h3>
+				<span class="section-label">2020 - current time</span>
+				<p class="content-text">Software testing of developing products. UI and Backend testing, API testing, and load
+					testing. Creating test
+					plans,
+					test cases, and bug reports. Team lead support.</p>
+				<h3 class="section-subtitle">AnimaRender - Technical support</h3>
+				<span class="section-label">2018 - 2020</span>
+				<p class="content-text">Online technical support services for render farm users. Software installation &
+					configuration, testing
+					developed
+					applications and company web site.</p>
+			</section>
+			<section class="cv-section" id="education">
+				<h2 class="section-title">Education</h2>
+				<h3 class="section-subtitle">Magister degree - South Ural State University (National Research University),
+					Chelyabinsk</h3>
+				<span class="section-label">2017 - 2019</span>
+				<p class="content-text">School of Electronic Engineering and Computer Science, 09.04.01 Computer Science and
+					Computer Engineering
+					(Computer
+					Engineering, Complexes, Systems and Networks)</p>
+				<h3 class="section-subtitle">Bachelor degree - South Ural State University (National Research University),
+					Chelyabinsk</h3>
+				<span class="section-label">2012 - 2017</span>
+				<p class="content-text">School of Electronic Engineering and Computer Science, 09.03.01 Computer Science and
+					Computer Engineering
+					(Computer
+					Engineering, Complexes, Systems and Networks)</p>
+			</section>
+			<section class="cv-section" id="english">
+				<h2 class="section-title">English</h2>
+				<p class="content-text">B2, Upper intermediate</p>
+			</section>
+		</div>
+	</main>
+
+	<footer class="cv-footer">
+		<a class="content-link rss" href="https://rs.school/js/"></a>
+		<div>
+			<a class="content-link" href="https://github.com/HeyHey204">heyhey204</a>
+			<span>©
+			</span>
+			<span id="year">
+			</span>
+		</div>
+	</footer>
+	<script src="index.js"></script>
 </body>
 
 </html>
