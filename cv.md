@@ -1,5 +1,5 @@
 # Alexey Gerasimov
-![Hi!](https://img.hhcdn.ru/photo/523347376.png?t=1671111614&h=s3mzfNmJ3CMkOt4h065Hww)
+![Hi!](https://heyhey204.github.io/rsschool-cv/assets/img/avatar.png)
 ## Contacts
 **TG:** [@heyhey204](https://t.me/HeyHey204)
 
@@ -14,18 +14,22 @@ I am a qualified QA Engineer in *fuse8* company with two years of experience in 
 ## Skills
 - UI & Backend Testing, Load testing, writing test artifacts
 - Postman, JMeter, Swagger, BrowserStack
-- HTML, CSS, JavaScript *(TS little bit)*
+- HTML, CSS, SCSS, JavaScript *(TS little bit)*, WebPack
 - Atlassian Jira, DevTools, Git, SQL, Fork
 
 ## Code
-My previous code examples could be found in my repos list:
-- [Weather App](https://github.com/HeyHey204/weather-app)
-- [ToDo List](https://github.com/HeyHey204/yet-another-todo)
+My projects could be found here:
+- [Weather App](https://heyhey204.github.io/weather-app/)
+- [ToDo List](https://heyhey204.github.io/yet-another-todo/)
+- [Notes](https://heyhey204.github.io/one-more-todo-notes/src/)
+- [Plants](https://rolling-scopes-school.github.io/heyhey204-JSFEPRESCHOOL2022Q4/plants/)
+- [momentum](https://heyhey204-momentum.netlify.app/)
 
 #### Code example:
 ```
-function multiply(a, b){
-  return a*b;
+function getDecimal(n){
+  n = Math.abs(n)
+	return n - Math.floor(n);
 }
 ```
 
@@ -47,6 +51,9 @@ School of Electronic Engineering and Computer Science, 09.04.01 Computer Science
 
 #### **Bachelor degree** - South Ural State University (National Research University), Chelyabinsk, 2012 - 2017
 School of Electronic Engineering and Computer Science, 09.03.01 Computer Science and Computer Engineering (Computer Engineering, Complexes, Systems and Networks)
+
+#### **JS/FE Pre-School** - RS School, Online cource, 2022 - 2023
+[Certificate](https://app.rs.school/certificate/y9ul9m2w)
 
 ## Foreign languages
 **English** - B2
